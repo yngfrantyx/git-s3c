@@ -1,5 +1,4 @@
-"# git-s3c" 
-
+# GIT S3C
 ## contributors
 
 - František Hába
